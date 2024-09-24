@@ -3,7 +3,6 @@ public class Produto {
     private String nome;
     private double preco;
 
-    // Construtores, Getters e Setters
     public Produto(int id, String nome, double preco) {
         this.id = id;
         this.nome = nome;
