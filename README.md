@@ -1,3 +1,6 @@
+https://github.com/ArthurDiogenes/CRUDbasico
+
+
 # Sistema de Gerenciamento de Produtos e Funcionários
 
 O sistema foi desenvolvido para facilitar o gerenciamento de produtos e funcionários de uma empresa fictícia. Ele permite realizar as operações básicas de criação, leitura, atualização e exclusão (CRUD) de dados, garantindo que a empresa mantenha controle sobre seu estoque e sua equipe de trabalho.
