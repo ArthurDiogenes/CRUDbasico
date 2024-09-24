@@ -32,9 +32,9 @@ O sistema foi desenvolvido para facilitar o gerenciamento de produtos e funcion√
 
 ### Padr√µes
 
-- GoF: Factory Method 
+- GoF: Repository
 
-- GRASP: Creator
+- GRASP: Controller
 
 
 ## EQUIPE
